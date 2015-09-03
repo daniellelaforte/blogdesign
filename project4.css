@@ -1,0 +1,104 @@
+* {
+	box-sizing: border-box;
+}
+
+.emerald {
+	background-color: #2ecc71;
+	width: 500px;
+	margin-left: 220px;
+	display: block;
+	height: 200px;
+	margin-top: 20px;
+	color: white;
+	font-size: 24px;
+	font-family: Arial;
+	padding-top: 165px;
+	padding-left: 10px;
+
+
+}
+
+body {
+	background-color: #7f8c8d;
+}
+
+.darkemerald {
+	background-color: #27ae60;
+
+	width: 500px;
+	margin-left: 220px;
+	display: block;
+	height: 8px;
+
+}
+
+.grey {
+	background-color: #34495e;
+   
+	width: 500px;
+	margin-left: 220px;
+	display: block;
+	height: 35px;
+	padding-top: 12px;
+	text-align: right;
+	padding-left: 10px;
+	font-family: arial;
+	font-size: 12px;
+
+
+
+
+}
+
+.grey a {
+	text-decoration: none;
+	color: white;
+}
+
+.darkgrey {
+	background-color: #2c3e50;
+
+	width: 500px;
+	margin-left: 220px;
+	display: block;
+	height: 8px;
+
+}
+
+.bigone {
+	background-color: #ecf0f1;
+	position: relative;
+    display: inline-block;
+	width: 500px;
+	margin-left: 220px;
+	display: block;
+	height: 1000px;
+
+}
+
+.aside {
+	background-color: #ecf0f1;
+    position:absolute;
+	width: 175px;
+	margin-left: 510px;
+	display: inline-block;
+	height: 200px;
+	margin-top: 0px;
+
+}
+
+.trite {
+	background-color: #34495e;
+    position:absolute;
+	width: 175px;
+	margin-left: 510px;
+	display: inline-block;
+	height: 5px;
+	margin-top: 200px;
+	
+}
+
+.test {
+	margin-right: 10px;
+	
+}
